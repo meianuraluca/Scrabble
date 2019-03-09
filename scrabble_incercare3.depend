@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528062549 source:c:\users\raluca\desktop\fmi\sem i\restanta\scrabble_incercare3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1552129511 source:c:\users\raluca\desktop\fmi\anul i\sem i\restanta\scrabble_incercare3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
